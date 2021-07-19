@@ -2,7 +2,7 @@
 version: '3'
 services:
   freqtrade:
-    image: freqtradeorg/freqtrade:develop
+    image: monigomani/freqtrade:mgm-proof
     # Add additional MGM dependencies
     build:
       context: .
