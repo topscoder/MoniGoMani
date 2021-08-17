@@ -3,9 +3,7 @@ site_url: https://monigomani.readthedocs.io
 repo_url: https://github.com/Rikj000/MoniGoMani
 use_directory_urls: True
 theme:
-  name: litera
-extra_css:
-  - "css/mgm.css"
+  name: flatly
 nav:
   - Home: index.md
   - MGM-Hurry: mgm-hurry.md
