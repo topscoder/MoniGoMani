@@ -10,6 +10,7 @@ You will get up and HyperOpting (or, Dry/Live Running) in no time!
 ## Requirements
 
 * Python 3.8+ is required
+* [PIP package manager](https://pypi.org/project/pip/) is required
 * Install required Python packages using the [PIP package manager](https://pip.pypa.io/en/stable/installing/):
 
 ```shell

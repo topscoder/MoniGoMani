@@ -1,6 +1,10 @@
 # Contributing to MGM
 
-👍🎉 First off, thanks for taking the time to contribute! 🎉👍
+---
+
+<p align="center">👍🎉  <strong> First off, thanks for taking the time to contribute! </strong>  🎉👍</p>
+
+---
 
 The following is a set of guidelines for contributing to the MoniGoMani Hyper Strategy and its modules, which are hosted in the [Rikj000 repository](https://github.com/Rikj000/MoniGoMani) on GitHub. These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
@@ -18,8 +22,15 @@ GitHub Actions are used in order to run automated unit-tests against our code. T
 
 It can be quite handy to run a GitHub action workflow on your local machine. Well, [`act`](https://github.com/nektos/act) is your friend.
 
----
+## Documentation
 
-*Note; this document is inspired by the [awesome Atom contributing guidelines](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)*
+Special fields for the documentation (like Note boxes, ...) can be found [here](https://squidfunk.github.io/mkdocs-material/extensions/admonition/).
 
----
+To test the documentation locally use the following commands.
+
+``` bash
+pip install -r docs/requirements-docs.txt
+mkdocs serve
+```
+
+This will spin up a local server (usually on port 8000) so you can see if everything looks as you'd like it to.

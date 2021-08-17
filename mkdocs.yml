@@ -1,0 +1,13 @@
+site_name: MoniGoMani
+site_url: https://monigomani.readthedocs.io
+repo_url: https://github.com/Rikj000/MoniGoMani
+use_directory_urls: True
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - MGM-Hurry: mgm-hurry.md
+  - MoniGoMani: monigomani.md
+  - Very QuickStart: very-quickstart.md
+  - TODO: todo.md
+  - Contributing: CONTRIBUTING.md

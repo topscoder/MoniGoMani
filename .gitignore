@@ -8,6 +8,9 @@ user_data/strategies/MoniGoManiHyperStrategy.json
 # Ignore Release Template
 Documentation/ReleaseTemplate.md
 
+# Ignore local generated documentation
+site/
+
 # Ignore Python Caches
 __pycache__/
  *.pyc
