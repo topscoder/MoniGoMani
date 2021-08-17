@@ -1,5 +1,5 @@
 art==5.2
-coloredlogs==15.0.1
+coloredlogs==15.0.*
 fire==0.4.0
 InquirerPy==0.2.0
 logger==1.4
