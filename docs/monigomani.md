@@ -1,32 +1,12 @@
-<p align="left">
-    <a href="https://discord.gg/xFZ9bB6vEz">
-        <img src="https://img.shields.io/discord/819237123009150977?label=Discord%20Server&logo=discord" alt="Join CryptoStonksShallRise on Discord">
-    </a> <a href="https://github.com/Rikj000/MoniGoMani/releases">
-        <img src="https://img.shields.io/github/downloads/Rikj000/MoniGoMani/total?label=Total%20Downloads&logo=github" alt="Total Releases Downloaded from GitHub">
-    </a> <a href="https://github.com/Rikj000/MoniGoMani/releases/latest">
-        <img src="https://img.shields.io/github/v/release/Rikj000/MoniGoMani?include_prereleases&label=Latest%20Release&logo=github" alt="Latest Official Release on GitHub">
-    </a> <a href="https://github.com/Rikj000/MoniGoMani/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/Rikj000/MoniGoMani?label=License&logo=gnu" alt="GNU General Public License">
-    </a> <a href="https://github.com/Rikj000/MoniGoMani/blob/main/MGM_DOCUMENTATION.md">
-        <img src="https://img.shields.io/badge/Docs-MGM__DOCUMENTATION.md-blue?logo=libreoffice&logoColor=white" alt="The current place where you can find all MoniGoMani Documentation!">
-    </a> <a href="https://www.freqtrade.io/en/latest/">
-        <img src="https://img.shields.io/badge/Trading%20Bot-Freqtrade-blue?logo=probot&logoColor=white" alt="Freqtrade - The open source crypto day-trading bot">
-    </a> <a href="https://www.iconomi.com/register?ref=JdFzz">
-        <img src="https://img.shields.io/badge/Join-ICONOMI-blue?logo=bitcoin&logoColor=white" alt="ICONOMI - The world’s largest crypto strategy provider">
-    </a> <a href="https://www.buymeacoffee.com/Rikj000">
-        <img src="https://img.shields.io/badge/-Buy%20me%20a%20Coffee!-FFDD00?logo=buy-me-a-coffee&logoColor=black" alt="Buy me a Coffee as a way to sponsor this project!">
-    </a>
-</p>
 
-## ⚠️ Disclaimer
- - This strategy is under development. It is not recommended running it live at this moment.
- - Always test this strategy before using it!
- - I am in no way responsible for your live results! This strategy is still experimental and under heavy development!
- - MoniGoMani should always be [re-optimized](#how-to-optimize-monigomani) after doing manual changes!
- - You need to [optimize](#how-to-optimize-monigomani) your own copy of MoniGoMani while thinking logically, don't follow your computer blindly!
-<hr>
+!!! warning "⚠️ Disclaimer"
+    - This strategy is under development. It is not recommended running it live at this moment.
+    - Always test this strategy before using it!
+    - I am in no way responsible for your live results! This strategy is still experimental and under heavy development!
+    - MoniGoMani should always be [re-optimized](#how-to-optimize-monigomani) after doing manual changes!
+    - You need to [optimize](#how-to-optimize-monigomani) your own copy of MoniGoMani while thinking logically, don't follow your computer blindly!
 
-
+<!--
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Freqtrade Installation](#freqtrade-installation)
@@ -65,11 +45,12 @@
     - [TypeError: integer argument expected, got float](#typeerror-integer-argument-expected-got-float)
     - [-bash: jq: command not found](#-bash-jq-command-not-found)
     - [ValueError: the lower bound X has to be less than the upper bound Y](#valueerror-the-lower-bound-x-has-to-be-less-than-the-upper-bound-y)
+-->
 
-# Freqtrade Installation
+## Freqtrade Installation
 This guide now assumes you have **Freqtrade** and **jq** already installed, if you haven't yet, then please see [VERYQUICKSTART_FREQTRADE.md](https://github.com/Rikj000/MoniGoMani/blob/main/VERYQUICKSTART_FREQTRADE.md)
 
-# How to Optimize MoniGoMani
+## How to Optimize MoniGoMani
 *(These are just my ideas/theories, if you have other ideas, please test them & report your results to [#moni-go-mani-testing](https://discord.gg/xFZ9bB6vEz) so we can learn and improve this flow!)*   
 **<span style="color:darkorange">WARNING:</span> It's strongly advised to not do any manual alterations to an already optimized MGM setup! The recommended way to do manual alterations is by [Configuring MoniGoMani](#how-to-configure-monigomani), and then following this optimization process to apply them!**   
    

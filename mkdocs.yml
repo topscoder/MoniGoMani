@@ -4,10 +4,28 @@ repo_url: https://github.com/Rikj000/MoniGoMani
 use_directory_urls: True
 theme:
   name: flatly
-#  nav_style: dark
+#  icon:
+#    logo: material/book-open-page-variant
+#  palette:
+#    scheme: dracula
+#    primary: deep purple
+#    accent: deep purple
 nav:
   - Home: index.md
   - MGM-Hurry: mgm-hurry.md
   - MoniGoMani: monigomani.md
   - Very QuickStart: very-quickstart.md
   - Contributing: CONTRIBUTING.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Rikj000/MoniGoMani
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/TODO_TODO
+markdown_extensions:
+  - markdown.extensions.toc: # Adds anchors to URL's
+      slugify: "!!python/name:pymdownx.slugs.uslugify"
+      permalink: ""
+  - markdown.extensions.admonition # Nice note/warning/info blocks
+  - pymdownx.superfences:
+      preserve_tabs: true
