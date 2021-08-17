@@ -20,6 +20,7 @@ repos:
         types: [file]
     -   id: check-yaml
         types: [file, yaml]
+        exclude: "mkdocs.yml"
     -   id: debug-statements
         types: [file, python]
     -   id: name-tests-test

@@ -1,3 +1,5 @@
+#
+
 <p align="center">
     <img src="https://repository-images.githubusercontent.com/352191040/43a50e00-ab61-11eb-92c9-fb91d458e8af" alt="MoniGoMani" height="250" />
 </p>
@@ -29,7 +31,7 @@
     </a>
 </p>
 
-!!! danger "⚠ Warning: Pre-release / Experimental"
+!!! danger "Warning: Pre-release / Experimental"
 
     It's <b>not recommended</b> to use this strategy <b>live</b> already, due to it still being under heavy development!<br>
     If you'd like to see this project progress faster, than please help out where you can
@@ -57,7 +59,7 @@ If you like my work, feel free to donate or use one of my referral links, that w
     </a>
 </p>
 
-!!! warning "⚠️ Disclaimer"
+!!! warning "Disclaimer"
 
     - This Framework / Strategy is under development. It is not recommended running it live at this moment.
     - Always test your MoniGoMani configuration before using it!

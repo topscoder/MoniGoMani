@@ -24,7 +24,7 @@ extra:
       link: https://discord.gg/TODO_TODO
 markdown_extensions:
   - markdown.extensions.toc: # Adds anchors to URL's
-      slugify: "!!python/name:pymdownx.slugs.uslugify"
+      slugify: !!python/name:pymdownx.slugs.uslugify # causes linting issues, but it has to be written this way...
       permalink: ""
   - markdown.extensions.admonition # Nice note/warning/info blocks
   - pymdownx.superfences:
