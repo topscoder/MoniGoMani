@@ -30,12 +30,12 @@
 </p>
 
 !!! danger "⚠ Warning: Pre-release / Experimental"
+
     It's <b>not recommended</b> to use this strategy <b>live</b> already, due to it still being under heavy development!<br>
     If you'd like to see this project progress faster, than please help out where you can
     [here](https://github.com/Rikj000/MoniGoMani/issues)!
 
     Recommended Freqtrade commit: [3503fdb4](https://github.com/freqtrade/freqtrade/pull/5219/commits/3503fdb4ec31be99f433fdce039543e0911964d6)
-
 
 ## Motivation
 
@@ -57,8 +57,8 @@ If you like my work, feel free to donate or use one of my referral links, that w
     </a>
 </p>
 
-
 !!! warning "⚠️ Disclaimer"
+
     - This Framework / Strategy is under development. It is not recommended running it live at this moment.
     - Always test your MoniGoMani configuration before using it!
     - I am in no way responsible for your live results! This strategy is still experimental and under heavy development!
@@ -201,13 +201,16 @@ This is where we'll keep track of all **New Feature, Feature Enhancements and Bu
 To keep track of what's exactly planned for the next release you can also check the [**Milestones**](https://github.com/Rikj000/MoniGoMani/milestones) section!
 
 ## ChangeLog
+
 MoniGoMani's ChangeLog can be read under the [**Releases**](https://github.com/Rikj000/MoniGoMani/releases/) section!
 *(You can also check the [Older Legacy ChangeLog](https://github.com/Rikj000/MoniGoMani/blob/main/CHANGELOG.md) to see the very beginning of MGM)*
 
 ## Freqtrade
+
 **Freqtrade** is the well known `open source crypto day-trading bot` that makes this strategy possible!
 It's completely free to use and alter and has many amazing features.
 Big thank you to **xmatthias** and everyone who helped on it!
+
 - **[Official Freqtrade Website](https://www.freqtrade.io/en/latest/)**
 - **[Official Freqtrade GitHub Repository](https://github.com/freqtrade/freqtrade)**
 - **[Official Freqtrade Discord Server](https://discord.gg/j84KnP57kW)**- [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function) Buy/Sell Signals
@@ -225,7 +228,7 @@ More [info on fees in general can be found here](https://www.iconomi.com/fees-di
 In general this is a good platform to invest into when you still need to start learning Technical Analysis, when you don't have time to monitor the status of the market or when you don't feel confident trading your own funds.
 Since here you have strategy owners "doing the day-trading for you" by re-balancing the strategies & the percentages of coins in them.
 
-**If you join please use my referral link! => (https://www.iconomi.com/register?ref=JdFzz)** :pray:
+**If you join please use my referral link! => [https://www.iconomi.com/register?ref=JdFzz](https://www.iconomi.com/register?ref=JdFzz)** :pray:
 *(Then a percentage of your fees that you have to pay anyways to the strategy owners and ICONOMI will go to me instead, which is a neat win-win way for us both to support me for my work on MGM!)*
 
 ### Recommended ICONOMI Strategies
