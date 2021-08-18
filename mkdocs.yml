@@ -12,9 +12,10 @@ theme:
 #    accent: deep purple
 nav:
   - Home: index.md
-  - MGM-Hurry: mgm-hurry.md
-  - MoniGoMani: monigomani.md
-  - Very QuickStart: very-quickstart.md
+  - QuickStart: very-quickstart.md
+  - Installation: mgm-hurry.md
+  - The Strategy: monigomani.md
+  - Help: help.md
   - Contributing: CONTRIBUTING.md
 extra:
   social:
