@@ -11,7 +11,7 @@ MoniGoMani has a growing community of enthousiast. We are always willing to help
 ................................................................
 
 ## Discord
-
+<!-- https://discord.gg/xFZ9bB6vEz -->
 ................................................................
 
 ## Matrix

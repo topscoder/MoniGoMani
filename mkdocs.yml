@@ -22,7 +22,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Rikj000/MoniGoMani
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/TODO_TODO
+      link: https://discord.gg/xFZ9bB6vEz
 markdown_extensions:
   - markdown.extensions.toc: # Adds anchors to URL's
       slugify: !!python/name:pymdownx.slugs.uslugify # causes linting issues, but it has to be written this way...
