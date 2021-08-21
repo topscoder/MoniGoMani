@@ -1,4 +1,4 @@
-#
+# Home
 
 <p align="center">
     <img src="https://repository-images.githubusercontent.com/352191040/43a50e00-ab61-11eb-92c9-fb91d458e8af" alt="MoniGoMani" height="250" />
@@ -35,7 +35,7 @@
 
 Isn't that what we all want? Our money to go many? Well that's what this Freqtrade  Framework & Strategy hopes to do for you "easily", in any market!
 
-!!! danger "Warning: Pre-release / Experimental"
+!!! danger "WARNING: EXPERIMENTAL PRE-RELEASE"
 
     It's <b>not recommended</b> to use this strategy <b>live</b> already, due to it still being under heavy development!<br>
     If you'd like to see this project progress faster, than please help out where you can
@@ -59,7 +59,7 @@ If you like my work, feel free to donate or use one of my referral links, that w
     </a>
 </p>
 
-!!! warning "Disclaimer"
+!!! warning "DISCLAIMER"
 
     - This Framework / Strategy is under development. It is not recommended running it live at this moment.
     - Always test your MoniGoMani configuration before using it!
@@ -198,22 +198,6 @@ freqtrade plot-profit --export-filename ./user_data/backtest_results/<backtest-r
   - `🗄︱cluster-results` *(Automated Ph3nol Cluster Releases. Exclusive to the MoniGoMani Cluster Maintainer & MoniGoMani Developers, for now!)*
 
 More general chats for `📈︱technical-analysis`, `🤖︱freqtrade`, `📊︱iconomi` and `🍉︱random` discussion are also available there :slightly_smiling_face:
-
-## Planned
-MoniGoMani's planned section lives under the [**Issues**](https://github.com/Rikj000/MoniGoMani/issues) section!
-*(Don't be scared GitHub likes to pick bad names for things, but also don't abuse this for common questions though!)*
-This is where we'll keep track of all **New Feature, Feature Enhancements and BugFixes** and it should be the ideal place to follow the status of the project more in depth or to contribute more directly towards it! :handshake:
-
-- [**All Open Issues**](https://github.com/Rikj000/MoniGoMani/issues)
-- [**All Things Planned**](https://github.com/Rikj000/MoniGoMani/issues?q=is%3Aissue+is%3Aopen+label%3APlanned)
-- [**All Known Bugs**](https://github.com/Rikj000/MoniGoMani/issues?q=is%3Aissue+is%3Aopen+label%3A%22Bug+-+Fix+Needed%22)
-
-To keep track of what's exactly planned for the next release you can also check the [**Milestones**](https://github.com/Rikj000/MoniGoMani/milestones) section!
-
-## ChangeLog
-
-MoniGoMani's ChangeLog can be read under the [**Releases**](https://github.com/Rikj000/MoniGoMani/releases/) section!
-*(You can also check the [Older Legacy ChangeLog](https://github.com/Rikj000/MoniGoMani/blob/main/CHANGELOG.md) to see the very beginning of MGM)*
 
 ## Freqtrade
 
